@@ -174,7 +174,7 @@
 | NU | NIU | 570 | Niue | Niue |
 | NZ | NZL | 554 | Zeland-Nevez | Zeland-Nevez |
 | OM | OMN | 512 | Oman | Sultanelezh Oman |
-| PA | PAN | 591 | Panamá | Republik Panama |
+| PA | PAN | 591 | Panama | Republik Panama |
 | PE | PER | 604 | Perou | Republik Perou |
 | PF | PYF | 258 | Polinezia C'hall | Polinezia C'hall |
 | PG | PNG | 598 | Papoua-Ginea Nevez | Stad dizalc'h Papoua-Ginea Nevez |
